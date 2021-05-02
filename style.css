@@ -1,0 +1,64 @@
+.heading{
+    font-size:23px;
+    
+    margin-left:5px;
+    margin-right:10px;
+   
+}
+
+.note{
+    font-size: 15px;
+    color:black;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: whitesmoke;
+    margin-top: 25px;
+}
+
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+    border-style: dotted;
+}
+
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+h3{
+    box-shadow: 3px 10px 10px greenyellow;
+}
+
+.play_button{
+    width:130px;
+    font-size:25px;
+}
+
+.canvas{
+border: 20px solid white;
+border-radius: 20px;
+}
+
